@@ -1,3 +1,4 @@
+Kaggle Competitiobn Link: https://www.kaggle.com/t/670e4cb20638469d9fc2800b40b58d86Links to an external site. \\
 Steps for performing the Dropout Prediction Challenge Kaggle competition
  
 1. Merge data by student ID. The final merged data should have one row per unique student ID \\
